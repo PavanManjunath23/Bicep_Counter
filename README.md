@@ -20,5 +20,5 @@ python bicep.py
 
 Follow the instructions displayed on the screen to begin counting your bicep curls.
 
-#Contributing
+# Contributing
 Contributions are welcome! If you'd like to enhance the functionality of the Bicep Counter or fix any issues, feel free to fork this repository, make your changes, and submit a pull request.
