@@ -16,7 +16,7 @@ Navigate to the directory where you cloned the repository:
 cd bicep-counter
 
 Run the script:
-python bicep_counter.py
+python bicep.py
 
 Follow the instructions displayed on the screen to begin counting your bicep curls.
 
